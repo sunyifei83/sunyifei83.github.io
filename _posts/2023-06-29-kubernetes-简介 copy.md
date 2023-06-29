@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      kubernetes简介
-subtitle:   kubernetes的前世今生
+title:      ClickPrompt工具网站
+subtitle:   一个把写 Prompt 门槛降低到膝盖以下的工具网站
 date:       2023-06-29
 author:     SYF
 header-img: img/kubernetes-community-final-03.jpeg
