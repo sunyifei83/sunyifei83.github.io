@@ -3,7 +3,7 @@ layout:     post
 title:      每日Midjourney画廊咒语分享
 subtitle:   Midjourney画廊咒语
 date:       2023-06-30
-author:     SYF
+author:     YF
 header-img: img/in-post/vvsun_A_Earth_made_of_circuit_boardsC4Dblendercleanpinteresthyp_f20ada07-9768-4a24-aa51-8adb0842e160.png
 catalog: true
 tags:

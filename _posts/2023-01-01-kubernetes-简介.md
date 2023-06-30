@@ -2,7 +2,7 @@
 layout:     post
 title:      kubernetes简介
 subtitle:   kubernetes的前世今生
-date:       2019-01-01
+date:       2023-01-01
 author:     YF
 header-img: img/kubernetes-community-final-02.jpg
 catalog: true

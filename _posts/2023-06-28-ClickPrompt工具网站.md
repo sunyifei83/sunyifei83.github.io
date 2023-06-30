@@ -2,8 +2,8 @@
 layout:     post
 title:      ClickPrompt工具网站
 subtitle:   一个把写 Prompt 门槛降低到膝盖以下的工具网站
-date:       2023-06-29
-author:     SYF
+date:       2023-06-28
+author:     YF
 header-img: img/in-post/kubernetes-community-final-03.jpeg
 catalog: true
 tags:
